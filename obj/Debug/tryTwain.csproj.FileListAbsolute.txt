@@ -1,0 +1,10 @@
+D:\oneDrive\Public\projects\tryTwain\tryTwain\bin\Debug\tryTwain.exe.config
+D:\oneDrive\Public\projects\tryTwain\tryTwain\bin\Debug\tryTwain.exe
+D:\oneDrive\Public\projects\tryTwain\tryTwain\bin\Debug\tryTwain.pdb
+D:\oneDrive\Public\projects\tryTwain\tryTwain\bin\Debug\Saraff.Twain.dll
+D:\oneDrive\Public\projects\tryTwain\tryTwain\bin\Debug\Saraff.Twain.xml
+D:\oneDrive\Public\projects\tryTwain\tryTwain\obj\Debug\tryTwain.csprojAssemblyReference.cache
+D:\oneDrive\Public\projects\tryTwain\tryTwain\obj\Debug\tryTwain.csproj.CoreCompileInputs.cache
+D:\oneDrive\Public\projects\tryTwain\tryTwain\obj\Debug\tryTwain.csproj.CopyComplete
+D:\oneDrive\Public\projects\tryTwain\tryTwain\obj\Debug\tryTwain.exe
+D:\oneDrive\Public\projects\tryTwain\tryTwain\obj\Debug\tryTwain.pdb
